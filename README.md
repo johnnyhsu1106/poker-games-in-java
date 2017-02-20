@@ -1,5 +1,5 @@
 # poker-in-Java
-<h1>design poker game based on design pattern in Java </h1>
+<h1>Design poker game based on Design Pattern in Java </h1>
 
 
 <p>
