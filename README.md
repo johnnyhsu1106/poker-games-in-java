@@ -8,7 +8,7 @@ For example, in Windows
 > java PokerGameDemo
 </p>
 
-<h3>This project is finished collaboratively by four MIS students in University of Arizona . (listed alphabetically) </h3>
+<h3>This project is finished collaboratively by four MIS students in University of Arizona . <small>(listed alphabetically)</small> </h3>
 <ul>
 <li>Johnny Hsu,	<a href="johnnyhsu1106@email.arizona.edu">johnnyhsu1106@email.arizona.edu</a></li>
 <li>Justin LeBreck,	<a href="jlebreck@email.arizona.edu">jlebreck@email.arizona.edu</a></li>
