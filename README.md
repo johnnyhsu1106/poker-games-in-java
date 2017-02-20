@@ -8,12 +8,12 @@ For example, in Windows
 > java PokerGameDemo
 </p>
 
-<h3>This project is finished collaboratively by four people. (listed alphabetically) </h3>
+<h3>This project is finished collaboratively by four MIS students in University of Arizona . (listed alphabetically) </h3>
 <ul>
-<li>Johnny Hsu	johnnyhsu1106@email.arizona.edu (myself)</li>
-<li>Justin LeBreck	jlebreck@email.arizona.edu</li>
-<li>Joshua Ziegler	joshuaz@email.arizona.edu</li>
-<li>Michelle Ziegler	mvziegler22@email.arizona.edu</li>
+<li>Johnny Hsu,	johnnyhsu1106@email.arizona.edu (myself)</li>
+<li>Justin LeBreck,	jlebreck@email.arizona.edu</li>
+<li>Joshua Ziegler,	joshuaz@email.arizona.edu</li>
+<li>Michelle Ziegler,	mvziegler22@email.arizona.edu</li>
 </ul>
 
 <h2>Project Summary:</h2>
