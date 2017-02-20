@@ -10,10 +10,10 @@ For example, in Windows
 
 <h3>This project is finished collaboratively by four MIS students in University of Arizona . (listed alphabetically) </h3>
 <ul>
-<li>Johnny Hsu,	johnnyhsu1106@email.arizona.edu (myself)</li>
-<li>Justin LeBreck,	jlebreck@email.arizona.edu</li>
-<li>Joshua Ziegler,	joshuaz@email.arizona.edu</li>
-<li>Michelle Ziegler,	mvziegler22@email.arizona.edu</li>
+<li>Johnny Hsu,	<a href="johnnyhsu1106@email.arizona.edu">johnnyhsu1106@email.arizona.edu</a></li>
+<li>Justin LeBreck,	<a href="jlebreck@email.arizona.edu">jlebreck@email.arizona.edu</a></li>
+<li>Joshua Ziegler,	<a href="joshuaz@email.arizona.edu">joshuaz@email.arizona.edu</a></li>
+<li>Michelle Ziegler,	<a href="mvziegler22@email.arizona.edu">mvziegler22@email.arizona.edu</a></li>
 </ul>
 
 <h2>Project Summary:</h2>
